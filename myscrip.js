@@ -92,4 +92,3 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 
   console.log(`Data disimpan dalam file Excel dengan nama ${fileName}.`);
 })();
-
